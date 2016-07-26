@@ -6,6 +6,7 @@
 */
 
 $tomates = 6;
+echo $tomates;
 
 
 
